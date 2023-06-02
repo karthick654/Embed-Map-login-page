@@ -9,7 +9,7 @@
 }
 .background-image{
     background: linear-gradient(#2d2a2aa3, #80808075), url(../images/coffee-images.jpeg);
-    height: 600px;
+    height: 800px;
     width: 100%;
     background-size: cover;
 } 
